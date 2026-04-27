@@ -1,3 +1,5 @@
+// The entry point. It sets the theme and boots up the SplashScreen.
+
 import 'package:flutter/material.dart';
 import 'screens/splash_screen.dart';
 
