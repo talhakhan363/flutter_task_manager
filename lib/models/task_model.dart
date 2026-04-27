@@ -1,4 +1,5 @@
-// Unlike Week 2 where we saved simple strings, here we need to save a task's title and its completion status. We create a model to handle this easily.
+/* Unlike Week 2 where we saved simple strings, here we need to save a task's 
+   title and its completion status. We create a model to handle this easily. */
 
 import 'dart:convert';
 
