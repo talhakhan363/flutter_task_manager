@@ -1,3 +1,7 @@
+/* This is the core of Week 3. It combines UI structuring, state management, 
+   persistent storage, and the required features (add, delete, complete) into 
+   one cohesive screen. */
+
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import '../models/task_model.dart'; // --> Importing our custom model
